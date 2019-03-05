@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Progress Scheduler</string>
+    <string name="terms_button_text">Terms</string>
+    <string name="courses_button_text">Courses</string>
+    <string name="mentors_button_text">Mentors</string>
+    <string name="assessments_button_text">Assessments</string>
+    <string name="course_code">Course Code</string>
+    <string name="course_title">Course Title</string>
+    <string name="select_start_date">Select Start Date</string>
+    <string name="select_end_date">Projected End Date</string>
+    <string name="status_spinner_title">Status</string>
+    <string name="view_assessments">Assessments</string>
+    <string name="view_course_mentors">Course Mentors</string>
+    <string name="course_start_date">Course Start Date</string>
+    <string name="course_end_date">Course End Date</string>
+    <string name="course_status">Status</string>
+    <string name="notes">Notes</string>
+    <string name="assessment_list_label">Assessments</string>
+    <string name="mentor_list_label">Mentors</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email Address</string>
+    <string name="new_course">New Course</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="delete_course">Delete Course</string>
+    <string name="course_start_date_picker_title">Start Date:</string>
+    <string name="course_end_date_picker_title">End Date:</string>
+    <string name="oops">Date:</string>
+    <string name="new_mentor">New Mentor</string>
+    <string name="mentor_name_label">Name:</string>
+    <string name="mentor_name">Mentor Name</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="email_address_label">Email Address:</string>
+    <string name="delete_mentor">Delete Mentor</string>
+    <string name="new_term">New Term</string>
+    <string name="term_course_list_label">Course List</string>
+    <string name="edit_term">Edit Term</string>
+    <string name="delete_term">Delete Term</string>
+    <string name="term_not_empty_toast">A term with courses cannot be removed</string>
+    <string name="term_name_edit_title">Term Name:</string>
+
+    <string-array name="status_array">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan To Take</item>
+    </string-array>
+</resources>
